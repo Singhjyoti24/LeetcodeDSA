@@ -21,7 +21,7 @@ To use this repository, you can follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/your-username/leetcode-dsa-solutions.git
+   git clone https://github.com/your-username/LeetcodeDSA.git
    ```
 ## Languages
 1. Java
