@@ -15,7 +15,6 @@ class Solution {
             if(map.containsKey('T') && map.containsKey('F')){
                 int a =  map.get('T');
                 int b =  map.get('F');
-                int c = 0;
                 if((a>=b && b<=k) || (b>=a && a<=k)){
                 max = Math.max(max, i-j+1);
                 }
